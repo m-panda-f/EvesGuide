@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:evesguide/login/login.dart';
-import 'package:evesguide/screens/home.dart';
+import 'package:project/login/login.dart';
+import 'package:project/screens/home.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';

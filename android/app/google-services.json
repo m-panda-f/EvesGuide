@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167858604740",
+    "firebase_url": "https://elderease-41524-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "elderease-41524",
+    "storage_bucket": "elderease-41524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167858604740:android:50d4228504135a59375791",
+        "android_client_info": {
+          "package_name": "com.example.evesguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167858604740-0isuf1unamblnp969c2vh37sqcaobbne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzGOGIQ3ROiTvoIYAr6f5yd5phcCz__M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167858604740-0isuf1unamblnp969c2vh37sqcaobbne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167858604740-jidg8556pvds4avuv6qimvvpb0kv2bjs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evesguide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

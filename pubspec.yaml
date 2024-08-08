@@ -53,7 +53,6 @@ dependencies:
   sign_in_button: ^3.2.0
   flutter_spinkit: ^5.2.1
   page_transition: ^2.1.0
-  
   google_nav_bar: ^5.0.6
   line_awesome_flutter: ^3.0.1
   table_calendar: ^3.1.2

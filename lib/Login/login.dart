@@ -1,9 +1,9 @@
 // ignore_for_file: use_build_context_synchronously
 
-import 'package:evesguide/Login/forgotpassword.dart';
+import 'package:project/Login/forgotpassword.dart';
 
-import 'package:evesguide/Login/signin.dart' as SignIn;
-import 'package:evesguide/screens/home.dart';
+import 'package:project/Login/signin.dart' as SignIn;
+import 'package:project/screens/home.dart';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';

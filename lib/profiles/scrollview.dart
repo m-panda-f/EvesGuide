@@ -1,10 +1,10 @@
-import 'package:audioplayers/audioplayers.dart';
-import 'package:evesguide/screens/Articles/articles.dart';
-import 'package:evesguide/screens/common/fake.dart';
-import 'package:evesguide/profiles/privacy.dart';
-import 'package:evesguide/profiles/symptoms.dart';
+
+import 'package:project/screens/Articles/articles.dart';
+import 'package:project/screens/common/fake.dart';
+import 'package:project/profiles/privacy.dart';
+
 import 'package:flutter/material.dart';
-import 'package:evesguide/screens/common/fake.dart' as fake;
+
 import 'package:flutter/widgets.dart';
 
 class OptionsScrollView extends StatelessWidget {

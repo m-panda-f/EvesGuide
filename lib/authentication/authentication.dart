@@ -1,12 +1,12 @@
 
 
-import 'package:evesguide/screens/home.dart';
-import 'package:evesguide/authentication/databse.dart';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_sign_in/google_sign_in.dart';
+import 'package:project/authentication/databse.dart';
+import 'package:project/screens/home.dart';
 import 'package:the_apple_sign_in/the_apple_sign_in.dart';
 
 class AuthMethods {

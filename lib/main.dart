@@ -5,7 +5,7 @@ import 'firebase_options.dart';
 import 'Login/login.dart' as login;
 import 'Login/signin.dart' as signup;
 import 'screens/home.dart';
-import 'package:google_fonts/google_fonts.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

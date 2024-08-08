@@ -1,12 +1,8 @@
 // ignore_for_file: unused_local_variable
-
-import 'package:audioplayers/audioplayers.dart';
-import 'package:evesguide/main.dart';
-import 'package:evesguide/screens/common/fake.dart';
-import 'package:evesguide/screens/common/Health.dart';
-import 'package:evesguide/screens/common/waste.dart';
-import 'package:evesguide/screens/home.dart';
-import 'package:evesguide/screens/Articles/Contacts.dart';
+import 'package:project/screens/common/Health.dart';
+import 'package:project/screens/common/waste.dart';
+import 'package:project/screens/home.dart';
+import 'package:project/screens/Articles/Contacts.dart';
 import 'package:flutter/material.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';

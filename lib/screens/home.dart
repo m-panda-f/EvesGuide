@@ -1,18 +1,16 @@
 import 'dart:convert';
 import 'dart:math';
 
-import 'package:audioplayers/audioplayers.dart';
-import 'package:evesguide/Tracker/calender.dart';
-import 'package:evesguide/Login/waste.dart';
-import 'package:evesguide/screens/Articles/articles.dart';
-import 'package:evesguide/screens/common/fake.dart';
-import 'package:evesguide/screens/common/Health.dart';
-import 'package:evesguide/profiles/privacy.dart';
-import 'package:evesguide/screens/common/waste.dart';
+
+import 'package:project/Tracker/calender.dart';
+
+import 'package:project/screens/common/Health.dart';
+
+import 'package:project/screens/common/waste.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:evesguide/profiles/profile.dart';
-import 'package:evesguide/screens/Articles/Contacts.dart';
+import 'package:project/profiles/profile.dart';
+import 'package:project/screens/Articles/Contacts.dart';
 
 
 import 'package:flutter/material.dart';

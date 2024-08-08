@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:evesguide/main.dart';
-import 'package:evesguide/profiles/scrollview.dart';
+import 'package:project/main.dart';
+import 'package:project/profiles/scrollview.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
